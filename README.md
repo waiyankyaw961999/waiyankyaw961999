@@ -12,7 +12,7 @@
 </a>
 
 
-Here are some ideas to get you started:
+My current Status:
 
 - 🔭 I’m currently studying at Mandalay Technological University 
 - 🌱 I’m currently learning Artificial Neural Networks, python programming.
