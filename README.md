@@ -30,4 +30,4 @@ My current Status:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waiyankyaw961999&show_icons=true&theme=light&line_height=27" alt="Waiyankyaw's github stats"/>
 </a>
 
-### You can look up some resources in repositories!
+### You can look up some repositories for your learning!
