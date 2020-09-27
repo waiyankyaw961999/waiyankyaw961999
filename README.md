@@ -11,8 +11,8 @@
   <img align="left" alt="Wai Yan Kyaw's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-
-
+<br/>
+<br/>
 - 🔭 Undergrad student at Mandalay Technological University 
 - 🌱 I’m currently learning Artificial Neural Networks, python programming.
 - 📫 How to reach me:waiyankyawmc@mtu.edu.mm
