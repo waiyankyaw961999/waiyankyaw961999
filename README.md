@@ -10,7 +10,7 @@
 <a href="https://www.facebook.com/william.kyaw.5661/">
   <img align="left" alt="Wai Yan Kyaw's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-</a>
+
 
 
 - 🔭 Undergrad student at Mandalay Technological University 
