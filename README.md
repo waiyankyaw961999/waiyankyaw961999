@@ -14,15 +14,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying at Mandalay Technological University ...
+- 🔭 I’m currently studying at Mandalay Technological University 
 - 🌱 I’m currently learning Artificial Neural Networks, python programming.
 - 📫 How to reach me:waiyankyawmc@mtu.edu.mm
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: kinda stubborn
 
-[![Linkedin: Wai Yan Kyaw](https://img.shields.io/badge/-Wai Yan Kyaw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wai-yan-k-152b22106/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub Wai Yan Kyaw](https://img.shields.io/github/followers/waiyankyaw961999?label=follow&style=social)](https://github.com/waiyankyaw961999)
+[![Linkedin: WYK](https://img.shields.io/badge/-WYK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wai-yan-k-152b22106/)](https://www.linkedin.com/in/imthepk/)
+[![GitHub WYK](https://img.shields.io/github/followers/waiyankyaw961999?label=follow&style=social)](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)
 
-
-
+<a href="https://github.com/waiyankyaw961999">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiyankyaw961999&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/waiyankyaw961999">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=waiyankyaw961999&show_icons=true&theme=light&line_height=27" alt="Waiyankyaw's github stats"/>
+</a>
 ### You can look up some resources in repositories!
