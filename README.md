@@ -10,10 +10,10 @@
 <a href="https://www.facebook.com/william.kyaw.5661/">
   <img align="left" alt="Wai Yan Kyaw's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+</a>
 
 
-
-My current Status:
+  My current Status:
 - 🔭 I’m currently studying at Mandalay Technological University 
 - 🌱 I’m currently learning Artificial Neural Networks, python programming.
 - 📫 How to reach me:waiyankyawmc@mtu.edu.mm
