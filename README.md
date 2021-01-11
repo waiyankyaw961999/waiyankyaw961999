@@ -17,7 +17,7 @@
 
 
 - 🔭 Undergrad student at Mandalay Technological University 
-- 🌱 I’m currently learning Artificial Neural Networks, python programming.
+- 🌱 I’m currently studying Artificial Neural Networks, python programming.
 - 📫 How to reach me: waiyankyawmc@mtu.edu.mm
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: kinda stubborn
