@@ -13,8 +13,7 @@
 
 <br/>
 <br/>
-
-<iframe src="https://lottiefiles.com/iframe/36963-working"></iframe>
+<img src=https://assets1.lottiefiles.com/packages/lf20_6gcjqbyv.json</img>
 
 - 🔭 Undergrad student at Mandalay Technological University 
 - 🌱 I’m currently studying Artificial Neural Networks, python programming.
