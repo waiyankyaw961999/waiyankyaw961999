@@ -15,8 +15,7 @@
 <br/>
 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets6.lottiefiles.com/packages/lf20_6gcjqbyv.json align="center" background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop autoplay></lottie-player>
-
+<lottie-player src="https://assets6.lottiefiles.com/packages/lf20_6gcjqbyv.json background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop autoplay></lottie-player>
 
 
 - 🔭 Undergrad student at Mandalay Technological University 
@@ -35,4 +34,3 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waiyankyaw961999&show_icons=true&theme=light&line_height=27" alt="Waiyankyaw's github stats"/>
 </a>
 
-### You can look up some repositories for your learning!
