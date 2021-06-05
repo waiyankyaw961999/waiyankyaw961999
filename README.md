@@ -14,11 +14,6 @@
 <br/>
 <br/>
 
-<img align="center" src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="300" height="300"/>
-
-
-
-
 - 🔭 Undergrad student at Mandalay Technological University 
 - 🌱 I’m currently studying Artificial Neural Networks, python programming.
 - 📫 How to reach me: waiyankyawmc@mtu.edu.mm
