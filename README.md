@@ -13,9 +13,7 @@
 
 <br/>
 <a>
-
-<lottie-player src="https://assets1.lottiefiles.com/packages/lf20_6gcjqbyv.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay>
-    </lottie-player>
+<img src="https://lottiefiles.com/36963-working" width="40" height="40" />
 </a>
 <br/>
 
