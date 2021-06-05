@@ -14,9 +14,7 @@
 <br/>
 <br/>
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets6.lottiefiles.com/packages/lf20_6gcjqbyv.json background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop autoplay></lottie-player>
-
+<iframe src="https://lottiefiles.com/iframe/36963-working"></iframe>
 
 - 🔭 Undergrad student at Mandalay Technological University 
 - 🌱 I’m currently studying Artificial Neural Networks, python programming.
