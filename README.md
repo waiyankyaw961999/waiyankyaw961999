@@ -13,7 +13,7 @@
 
 <br/>
 <a>
-<iframe src="https://giphy.com/embed/NHvv0Bo3oGq1eTBDd1" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/geekinc-helloworld-programmation-srhelloworld-NHvv0Bo3oGq1eTBDd1">via GIPHY</a></p>
+<img align="center" src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif width="100" height="100" "
 </a>
 <br/>
 
