@@ -12,10 +12,11 @@
 </a>
 
 <br/>
-<a>
-<img align="center" src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="100" height="100"/>
-</a>
 <br/>
+
+<img align="center" src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="500" height="500"/>
+
+
 
 
 - 🔭 Undergrad student at Mandalay Technological University 
