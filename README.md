@@ -1,5 +1,4 @@
 ### Hi,Mingalarpar! 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Waiyankyaw&label=Views&color=blue&style=plastic" alt="Waiyankyaw" /> </p>
 
 <a href="https://www.linkedin.com/in/wai-yan-k-152b22106/">
   <img align="left" alt="My Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
