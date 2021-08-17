@@ -24,7 +24,6 @@
 <code><img height="20" src="https://img.icons8.com/color/48/000000/python--v1.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/django.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
-<code><img height="20" src="https://img.icons8.com/ios-filled/50/000000/machine-learning.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
 <code><img height="20" src="https://img.icons8.com/clouds/100/000000/react.png"></code>    
 
