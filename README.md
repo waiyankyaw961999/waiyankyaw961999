@@ -19,6 +19,15 @@
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: kinda stubborn
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://img.icons8.com/color/48/000000/python--v1.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/django.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
+<code><img height="20" src="https://img.icons8.com/ios-filled/50/000000/machine-learning.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
+<code><img height="20" src="https://img.icons8.com/clouds/100/000000/react.png"></code>    
+
 
 [![Linkedin: WYK](https://img.shields.io/badge/-WYK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wai-yan-k-152b22106/)](https://www.linkedin.com/in/imthepk/)
 [![GitHub WYK](https://img.shields.io/github/followers/waiyankyaw961999?label=follow&style=social)](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)
