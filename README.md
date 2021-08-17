@@ -19,7 +19,6 @@
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: kinda stubborn
 
-<a href="https://waiyankyaw961999.github.io/myportfolio/">My Portfolio</a>
 
 [![Linkedin: WYK](https://img.shields.io/badge/-WYK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wai-yan-k-152b22106/)](https://www.linkedin.com/in/imthepk/)
 [![GitHub WYK](https://img.shields.io/github/followers/waiyankyaw961999?label=follow&style=social)](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)
