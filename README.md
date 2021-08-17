@@ -21,7 +21,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://img.icons8.com/color/48/000000/python--v1.png"></code>
+<img height="20" src="https://img.icons8.com/color/48/000000/python--v1.png">
 <code><img height="20" src="https://img.icons8.com/color/48/000000/django.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
