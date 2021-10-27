@@ -22,10 +22,8 @@
 **Languages and Tools:**  
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python--v1.png"></img>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/django.png"></img>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png"></img>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></img>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"></img>
-<img height="50" width="50" src="https://img.icons8.com/clouds/100/000000/react.png"></img>
 
 
 [![Linkedin: WYK](https://img.shields.io/badge/-WYK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wai-yan-k-152b22106/)](https://www.linkedin.com/in/imthepk/)
