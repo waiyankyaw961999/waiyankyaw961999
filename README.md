@@ -15,7 +15,7 @@
 
 - 🔭 Undergrad student at Mandalay Technological University 
 - 🌱 I’m currently studying to become a software developer.
-- 📫 How to reach me:
+- 📫 How to reach me: wykdev@gmail.com
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: kinda stubborn
 
