@@ -13,7 +13,8 @@
 <br/>
 <br/>
 
-- 🔭 Undergrad student at Mandalay Technological University 
+- 🔭 Undergrad student at Mandalay Technological University
+- 🔭 Studying CS at UoPeople
 - 🌱 I’m currently studying to become a software developer.
 - 📫 How to reach me: wykdev@gmail.com
 - 😄 Pronouns: He/his
