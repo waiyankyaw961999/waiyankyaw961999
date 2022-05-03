@@ -19,6 +19,7 @@
 - 📫 How to reach me: wykdev@gmail.com
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: kinda stubborn
+- My goal is to become a dedicated software developer emphazing on Computer Vision and Machine Learning.
 
 **Languages and Tools:**  
 
