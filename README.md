@@ -42,7 +42,7 @@
 </p>
 <br/>
 
-**Libraries or Frameworks for application development**
+**Libraries and Frameworks**
 
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="ReactJS">
