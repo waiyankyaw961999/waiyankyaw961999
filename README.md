@@ -38,7 +38,7 @@
 
 **Programming Languages** 
 <p>
-<img height="50" width="50" src="https://img.shields.io/badge/Python.svg?style=for-the-badge&logo=Python" alt="Python"></img>
+<img height="50" width="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python" alt="Python"></img>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png"></img>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></img>
 </p>
