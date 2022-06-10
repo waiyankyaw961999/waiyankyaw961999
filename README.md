@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="ExpressJS">
 
 ** Programming Languages ** 
-<img height="50" width="50" src="https://img.shields.io/badge?style=flat-square&logo=Python"></img>
+<img height="50" width="50" src="https://img.shields.io/badge?style=flat-square&logo=python"></img>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png"></img>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></img>
 
