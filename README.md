@@ -36,7 +36,7 @@
 
 <br/>
 
-** Programming Languages ** 
+**Programming Languages** 
 <p>
 <img height="50" width="50" src="https://img.shields.io/badge?logo=python"></img>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png"></img>
@@ -44,7 +44,7 @@
 </p>
 
 <br/>
-** Databases **
+**Databases**
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL">
