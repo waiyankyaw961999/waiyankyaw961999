@@ -24,21 +24,14 @@
 **Languages and Tools:**  
 
 
-<img height="50" width="50" src="https://img.icons8.com/office/48/000000/react.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/redux.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-
-
-
-
 <br/>
 
 **Programming Languages** 
 
 <p>
-<img height="50" width="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python" alt="Python"></img>
-<img src="https://img.icons8.com/color/48/000000/php.png"></img>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></img>
+<img height="50" width="50" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img height="50" width="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javscript">
 </p>
 <br/>
 
