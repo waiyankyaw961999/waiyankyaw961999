@@ -23,9 +23,7 @@
 
 **Languages and Tools:**  
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python--v1.png"></img>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png"></img>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></img>
+
 <img height="50" width="50" src="https://img.icons8.com/office/48/000000/react.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/redux.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
@@ -35,10 +33,15 @@
 <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux">
 <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
 <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="ExpressJS">
+
+** Programming Languages ** 
+<img height="50" width="50" src="https://img.shields.io/badge/-WYK-blue?style=flat-square&logo=Python"></img>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png"></img>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></img>
+
+** Databases **
 <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL">
-</p>
-
 
 
 [![Linkedin: WYK](https://img.shields.io/badge/-WYK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wai-yan-k-152b22106/)](https://www.linkedin.com/in/imthepk/)
