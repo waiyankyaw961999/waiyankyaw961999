@@ -21,9 +21,6 @@
 - ⚡ Fun fact: kinda stubborn
 - My goal is to become a dedicated software developer emphazing on Computer Vision and Machine Learning.
 
-**Languages and Tools:**  
-
-
 <br/>
 
 **Programming Languages** 
