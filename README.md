@@ -32,7 +32,7 @@
 </p>
 <br/>
 
-**Libraries and Frameworks**
+**Skills and Tools**
 
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="ReactJS">
