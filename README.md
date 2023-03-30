@@ -14,8 +14,7 @@
 <br/>
 
 - 🔭 Undergrad student at Mandalay Technological University
-- 🔭 Studying CS at UoPeople
-- 🌱 I’m currently studying to become a software developer.
+- 🌱 I’m currently studying to become a senior full stack software engineer.
 - 📫 How to reach me: wykdev@gmail.com
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: kinda stubborn
