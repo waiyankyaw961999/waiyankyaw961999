@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLITE">
 </p>
 
-[![Linkedin: WYK](https://img.shields.io/badge/-WYK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wai-yan-k-152b22106/)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: WYK](https://img.shields.io/badge/-WYK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wai-yan-k-152b22106/)](https://www.linkedin.com/in/wai-yan-k-152b22106/)
 [![GitHub WYK](https://img.shields.io/github/followers/waiyankyaw961999?label=follow&style=social)](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)
 
 
