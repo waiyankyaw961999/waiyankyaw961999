@@ -13,11 +13,12 @@
 <br/>
 <br/>
 
-- 🔭 Undergrad student at Mandalay Technological University
-- 🌱 I’m currently studying to become a senior full stack software engineer.
+- 🔭 Former undergraduate student at Mandalay Technological University
+- 🧑‍🎓 Student at East Los Angeles College
 - 📫 How to reach me: wykdev@gmail.com
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: kinda stubborn
+- 
 - My goal is to become a dedicated software developer emphazing on Computer Vision and Machine Learning.
 
 <br/>
